@@ -1,0 +1,44 @@
+Node js is free and open source server environment.
+- developed by Ryan Dahl in 2009 
+- Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).
+- developed for easily building fast and scalable network applications.
+
+
+- allows to run javascript on the server
+- runs on different platforms..
+- node js also provides library of various jaascript modules which helps to develop web applications.
+- It is not a language or a framework.
+
+nodejs --popular 
+
+It is popular due to its asynchronous behaviour....
+
+a common task of the web server to open a file and then return the content to the client.
+
+Php handles the file request :- 
+    - sends the task to the computer file system
+    - waits while the file system opens and reads the file.
+    - returns the content to the client.
+    - ready to handle the next request.
+
+Node Js handles the file request :-
+    - send the task to the computer file system.
+    - ready to handle the next request.
+    - when the file system has opened and read the file, the server return the content ot the client.
+    
+- Node Js eliminate the waiting and simply continues with the next request. 
+- It runs single-threaded, non - blocking,asynchronous programming, which is memory efficient.
+
+
+It can do :----
+    - can generate dynamic content.
+    - can create, open, read , write, delete and close files on the server
+    - can collect form data
+    - can add, delete, modify data in your database.
+
+what is Node.js File ?
+    - it contains tasks that will be executed on certain events.
+    - a event is someone trying to accessa port on the server.
+    - have an extension of .js
+
+

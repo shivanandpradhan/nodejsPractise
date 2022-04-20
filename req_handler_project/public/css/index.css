@@ -1,0 +1,29 @@
+body{
+    padding: 1rem 1rem;
+    background: rgb(201, 218, 52);
+}
+a{
+    color: rgb(17, 5, 85);
+    text-decoration: none;
+    padding: 1rem 1rem;
+    font-weight: 700;
+}
+h1{
+    padding: 1rem;
+    border: 2px solid black;
+    background: black;
+    color: white;
+}
+p{
+    padding: 1rem;
+    border: 2px solid black;
+    background: white;
+    font-weight: bolder;
+    color: rgb(4, 70, 64);
+}
+footer{
+    padding:0 1rem;
+    border: 2px solid black;
+    background: rgb(143, 221, 198);
+    color: rgb(9, 2, 31);
+}
